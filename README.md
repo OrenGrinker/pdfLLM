@@ -23,8 +23,8 @@ This is a **Streamlit-based application** that allows users to upload multiple P
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/pdf-question-answering-app.git
-   cd pdf-question-answering-app
+   git clone https://github.com/OrenGrinker/pdfLLM.git
+   cd pdfLLM
     ```
 
 2. **Install Dependencies**
